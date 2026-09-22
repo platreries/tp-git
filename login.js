@@ -1,5 +1,5 @@
-function login(username, password) {
-    if (!username || !password) {
+function login(username, userPassword) {
+    if (!username || !userPassword) {
         console.log("Identifiants manquants");
         return false;
     }
