@@ -1,2 +1,2 @@
-# TP Git Formation - version U2
+# TP Git Formation - projet complet
 Auteur: U2
